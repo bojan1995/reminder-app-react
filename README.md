@@ -1,4 +1,3 @@
-# reminder-app-react
 ReminderApp
 =======
 # Getting Started with Create React App
