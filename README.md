@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # appreminder
 ReminderApp
 =======
@@ -73,3 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> 0270607 (Initialize project using Create React App)
+=======
+# reminder-app-react
+ReminderApp
+>>>>>>> 86b8ac6daa57574d28f8253bd8387e078bb4d3e5
