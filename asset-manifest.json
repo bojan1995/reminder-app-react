@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reminder-app-react/static/css/main.4dcf30b7.css",
+    "main.js": "/reminder-app-react/static/js/main.5f10a78c.js",
+    "index.html": "/reminder-app-react/index.html",
+    "main.4dcf30b7.css.map": "/reminder-app-react/static/css/main.4dcf30b7.css.map",
+    "main.5f10a78c.js.map": "/reminder-app-react/static/js/main.5f10a78c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dcf30b7.css",
+    "static/js/main.5f10a78c.js"
+  ]
+}
